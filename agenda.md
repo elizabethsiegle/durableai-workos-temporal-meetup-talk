@@ -1,4 +1,4 @@
-## She Ships🚢: Get Started w/ OpenClaw on DigitalOcean🌊
+## Durable AI: Get Started w/ OpenClaw on DigitalOcean🌊
 - [ ] 👋🌊  
 - [ ] DO = AI inference cloud☁️
     - app plat, droplets, inference, gpus...
@@ -14,6 +14,8 @@
     - Twitter: [@lizziepika](twitter.com/lizziepika)
     - [DigitalOcean SF events](https://luma.com/digitalocean)
     - Resources:
+        - [Book tennis/pickleball courts at Bay Club ClawHub](https://clawhub.ai/elizabethsiegle/bayclub-gateway-booking)
+        - [ClawHub](https://clawhub.ai/)
         - [Droplets docs](https://www.digitalocean.com/products/droplets)
         - [Claude Code on DO droplets](https://www.digitalocean.com/community/tutorials/claude-code-gpu-droplets-vscode)
         - [Setup server env w/ Claude Code on Droplets](https://www.reddit.com/r/ClaudeAI/comments/1l4jm39/claude_code_droplets_on_do_and_a_random_vps/)
